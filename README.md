@@ -5,7 +5,8 @@
 
 # Preview🖼
 
-![image](https://github.com/user-attachments/assets/dd0e54a7-b449-4a87-9a1b-5fa47a39366b)
+<img width="739" height="313" alt="image" src="https://github.com/user-attachments/assets/18f9b447-ea4d-4ff1-a746-d512dffdcc5b" />
+
 
 
 
@@ -27,7 +28,7 @@ And more.... *in future*
 
 # Installation📩
 ```shell
-git clone https://github.com/LLMotion/Gift-Buyer-Tg
+git clone https://github.com/Lucranam/Gift-Buyer-Tg
 cd Gift-Buyer-Tg
 run.bat
 ```
@@ -35,7 +36,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/LLMotion/Gift-Buyer-Tg
+git clone https://github.com/Lucranam/Gift-Buyer-Tg
 cd Gift-Buyer-Tg
 pip install -r requirements.txt
 python main.py
